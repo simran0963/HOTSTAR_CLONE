@@ -71,7 +71,7 @@ const NavMenu = styled.div`
         }
 
         span{
-            fonr-size: 13px;
+            font-size: 13px;
             letter-spacing: 1.42px;
             position: relative;
 

@@ -7,37 +7,73 @@ function Movies() {
         <h4>Recommended for You</h4>
         <Content>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 1.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 2.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 3.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 4.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 5.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 6.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 7.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 8.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 9.png" />
             </Wrap>
             <Wrap>
-                <img src="https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296" />
+                <img src="images/poster 10.png"  />
+            </Wrap>
+        </Content>
+        
+        <h4>New Releases</h4>
+        <Content>
+            <Wrap>
+                <img src="images/poster 9.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 7.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 5.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 3.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 1.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 2.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 4.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 6.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 8.png" />
+            </Wrap>
+            <Wrap>
+                <img src="images/poster 11.png" />
             </Wrap>
         </Content>
     </Container>
+
+    
   )
 }
 
